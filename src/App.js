@@ -1,17 +1,29 @@
-import React from 'react';
-import './App.css';
- 
- 
- 
+import React, { Component } from 'react'
+import './style/App.scss';
+import data from './data.json';
+import Product from './Product'
+import Detail from './Detail'
 
-function App() {
-  return ( 
-    <div className="App">
-    <ul>
-                {socialMediaList.map(s => (<li>{s}</li>))}
-            </ul>
-    </div>
-  );
-}
+class App extends Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      imgset: [],
+      imgmin: 0,
+      imgmax: 0,
+      DetailImageUrl: '',
+    }
+  }
 
-export default App;
+   
+
+    render() {
+      return (
+        <div>
+         
+        </div>
+      )
+    }
+  }
+  
+  export default App
