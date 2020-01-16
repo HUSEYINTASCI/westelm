@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/westelm/static/css/main.b67d4b3d.chunk.css",
+    "main.js": "/westelm/static/js/main.f4118a91.chunk.js",
+    "main.js.map": "/westelm/static/js/main.f4118a91.chunk.js.map",
+    "runtime-main.js": "/westelm/static/js/runtime-main.4fc2e10e.js",
+    "runtime-main.js.map": "/westelm/static/js/runtime-main.4fc2e10e.js.map",
+    "static/js/2.5b998222.chunk.js": "/westelm/static/js/2.5b998222.chunk.js",
+    "static/js/2.5b998222.chunk.js.map": "/westelm/static/js/2.5b998222.chunk.js.map",
+    "index.html": "/westelm/index.html",
+    "precache-manifest.45d0c700233da2208642332e1a950d8d.js": "/westelm/precache-manifest.45d0c700233da2208642332e1a950d8d.js",
+    "service-worker.js": "/westelm/service-worker.js",
+    "static/css/main.b67d4b3d.chunk.css.map": "/westelm/static/css/main.b67d4b3d.chunk.css.map",
+    "static/js/2.5b998222.chunk.js.LICENSE": "/westelm/static/js/2.5b998222.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fc2e10e.js",
+    "static/js/2.5b998222.chunk.js",
+    "static/css/main.b67d4b3d.chunk.css",
+    "static/js/main.f4118a91.chunk.js"
+  ]
+}
