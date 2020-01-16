@@ -9,11 +9,17 @@
           "links": {
              "www": "https://www.westelm.com/products/modern-leaning-narrow-bathroom-shelf-h5074/"
           },
-          "price": {
-             "regular": 149,
-             "selling": 111.75,
-             "type": "special"
-          },
+          "priceRange": {
+            "regular": {
+               "high": 91,
+               "low": 72
+            },
+            "selling": {
+               "high": 71.2,
+               "low": 62.2
+            },
+            "type": "special"
+         },
           "thumbnail": {
              "size": "m",
              "meta": "",
@@ -90,11 +96,17 @@
           "links": {
              "www": "https://www.westelm.com/products/modern-leaning-over-the-toilet-cubby-h5075/"
           },
-          "price": {
-             "regular": 249,
-             "selling": 186.75,
-             "type": "special"
-          },
+          "priceRange": {
+            "regular": {
+               "high": 93,
+               "low": 74
+            },
+            "selling": {
+               "high": 74.2,
+               "low": 62.2
+            },
+            "type": "special"
+         },
           "thumbnail": {
              "size": "m",
              "meta": "",
@@ -255,12 +267,12 @@
           },
           "priceRange": {
              "regular": {
-                "high": 2496,
-                "low": 2495
+                "high": 96,
+                "low": 95
              },
              "selling": {
-                "high": 1996.8,
-                "low": 1996
+                "high": 96.8,
+                "low": 96
              },
              "type": "special"
           },
@@ -331,11 +343,17 @@
           "links": {
              "www": "https://www.westelm.com/products/concrete-outdoor-dining-table-benches-textilene-chairs-set-h5138/"
           },
-          "price": {
-             "regular": 2455,
-             "selling": 1964,
-             "type": "special"
-          },
+          "priceRange": {
+            "regular": {
+               "high": 59,
+               "low": 59
+            },
+            "selling": {
+               "high": 69.2,
+               "low": 73.2
+            },
+            "type": "special"
+         },
           "thumbnail": {
              "size": "m",
              "meta": "",
@@ -412,11 +430,17 @@
           "links": {
              "www": "https://www.westelm.com/products/playa-outdoor-bar-cart-h5129/"
           },
-          "price": {
-             "regular": 399,
-             "selling": 319.2,
-             "type": "special"
-          },
+          "priceRange": {
+            "regular": {
+               "high": 89,
+               "low": 59
+            },
+            "selling": {
+               "high": 79.2,
+               "low": 93.2
+            },
+            "type": "special"
+         },
           "thumbnail": {
              "size": "m",
              "meta": "",
@@ -495,12 +519,12 @@
           },
           "priceRange": {
              "regular": {
-                "high": 987,
-                "low": 588
+                "high": 87,
+                "low": 88
              },
              "selling": {
-                "high": 789.6,
-                "low": 470.4
+                "high": 89.6,
+                "low": 70.4
              },
              "type": "special"
           },
@@ -580,11 +604,17 @@
           "links": {
              "www": "https://www.westelm.com/products/playa-outdoor-ottoman-h5153/"
           },
-          "price": {
-             "regular": 299,
-             "selling": 239.2,
-             "type": "special"
-          },
+          "priceRange": {
+            "regular": {
+               "high": 59,
+               "low": 49
+            },
+            "selling": {
+               "high": 78.2,
+               "low": 60.2
+            },
+            "type": "special"
+         },
           "thumbnail": {
              "size": "m",
              "meta": "",
@@ -635,12 +665,12 @@
           },
           "priceRange": {
              "regular": {
-                "high": 2276,
-                "low": 2273
+                "high": 76,
+                "low": 73
              },
              "selling": {
-                "high": 1820.8,
-                "low": 1818.4
+                "high": 20.8,
+                "low": 18.4
              },
              "type": "special"
           },
@@ -720,11 +750,17 @@
           "links": {
              "www": "https://www.westelm.com/products/portside-aluminum-outdoor-dining-chair-set-2-h5139/"
           },
-          "price": {
-             "regular": 599,
-             "selling": 479.2,
-             "type": "special"
-          },
+          "priceRange": {
+            "regular": {
+               "high": 96,
+               "low": 78
+            },
+            "selling": {
+               "high": 75.2,
+               "low": 69.2
+            },
+            "type": "special"
+         },
           "thumbnail": {
              "size": "m",
              "meta": "",

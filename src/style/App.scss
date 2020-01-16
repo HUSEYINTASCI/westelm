@@ -1,0 +1,18 @@
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1250px;
+    margin: auto;
+    justify-content: center;
+  }
+  .header {
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .header img {
+    width: 30%;
+  }
+  
